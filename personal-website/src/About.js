@@ -84,8 +84,8 @@ export default function About() {
                 </span><hr/><br/>
                 <img src={PlaceholderImg} alt="placerholder image" width="200px" className={classes.proImg}/>
                 <p className={classes.p}>
-                  A horror visual novel engine. Still a work in progress, this is more of a hobby project. 
-                  The ultimate end goal is to create a desktop app that is user friendly! <br/><br/>
+                  A horror RPG/VN game developed using Gamemaker Studio 2. Still a work in progress, this is more of a hobby project. 
+                  The ultimate end goal is to create a fully fledged video game! Utilizes gml, see: <a href="https://docs.yoyogames.com/source/dadiospice/002_reference/001_gml%20language%20overview/">link</a> <br/><br/>
                   <i> What do you mean the train is haunted???</i> 
                 </p>
                 <div style={{clear: "both"}}></div>
