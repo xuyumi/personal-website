@@ -53,7 +53,7 @@ export default function Home() {
                 <div id="introBox" className={classes.intro}>
                     <img src={Qevi} height="175px" style={{float: "left", margin: "20px"}}></img>
                     <p style={{fontSize: "16px", marginLeft: "20px", marginTop: "50px", textAlign: "left"}}> Hello! My name is Isabelle Xu and I'm currently a software engineer. 
-                    Apart from programming, I love drawing webcomics, illustrations, and (*trying*) to makes games. Welcome to my cardboard box!
+                    Apart from programming, I love drawing webcomics, illustrations, and (*trying*) to make games. Welcome to my cardboard box!
                     </p>
                     <span>
                     <IconButton aria-label="LinkedIn" className={classes.margin} href="https://www.linkedin.com/in/isabelle-xu-18779274/">
