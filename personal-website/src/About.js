@@ -57,7 +57,7 @@ const useStyles = makeStyles(theme => ({
       clear:"both"
     },
     p: {
-      marginLeft: "50px",
+      marginLeft: "40px",
       overflow:"auto",
       fontSize: "16px",
       display:"block"
